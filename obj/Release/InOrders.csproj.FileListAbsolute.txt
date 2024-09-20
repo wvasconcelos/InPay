@@ -1,0 +1,36 @@
+D:\InOrders\InOrders.exe.config
+D:\InOrders\InOrders.exe.manifest
+D:\InOrders\InOrders.application
+D:\InOrders\InOrders.exe
+D:\InOrders\InOrders.pdb
+D:\InOrders\en\InOrders.resources.dll
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\bin\Release\InOrders.exe.config
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\bin\Release\InOrders.exe.manifest
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\bin\Release\InOrders.application
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\bin\Release\InOrders.exe
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\bin\Release\InOrders.pdb
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\bin\Release\en\InOrders.resources.dll
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\bin\Release\AWSSDK.Core.dll
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\bin\Release\eBay.Service.dll
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\bin\Release\MarketplaceWebServiceOrders.dll
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\bin\Release\MWSClientCsRuntime-1.0.dll
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\bin\Release\Newtonsoft.Json.dll
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\bin\Release\AWSSDK.Core.pdb
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\bin\Release\AWSSDK.Core.xml
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\bin\Release\eBay.Service.xml
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\bin\Release\Newtonsoft.Json.xml
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\obj\Release\PurgatoryEditor.FormResetUploadStatus.resources
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\obj\Release\PurgatoryEditor.FormCustomerMatch.resources
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\obj\Release\PurgatoryEditor.FormEditOrder.resources
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\obj\Release\PurgatoryEditor.FormMain.resources
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\obj\Release\PurgatoryEditor.FormSettings.resources
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\obj\Release\InOrders.Properties.Resources.resources
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\obj\Release\PurgatoryEditor.FormEditOrder.en.resources
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\obj\Release\InOrders.csproj.GenerateResource.Cache
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\obj\Release\en\InOrders.resources.dll
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\obj\Release\InOrders.TrustInfo.xml
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\obj\Release\InOrders.exe.manifest
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\obj\Release\InOrders.application
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\obj\Release\InOrders.exe
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\obj\Release\InOrders.pdb
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\InOrders\obj\Release\InOrders.csprojResolveAssemblyReference.cache

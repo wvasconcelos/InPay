@@ -1,0 +1,52 @@
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\PurgatoryEditor\bin\Debug\PurgatoryEditor.exe.config
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\PurgatoryEditor\bin\Debug\PurgatoryEditor.exe
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\PurgatoryEditor\bin\Debug\PurgatoryEditor.pdb
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\PurgatoryEditor\obj\Debug\PurgatoryEditor.csprojResolveAssemblyReference.cache
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\PurgatoryEditor\obj\Debug\PurgatoryEditor.Form1.resources
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\PurgatoryEditor\obj\Debug\PurgatoryEditor.Properties.Resources.resources
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\PurgatoryEditor\obj\Debug\PurgatoryEditor.csproj.GenerateResource.Cache
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\PurgatoryEditor\obj\Debug\PurgatoryEditor.exe
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\PurgatoryEditor\obj\Debug\PurgatoryEditor.pdb
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\PurgatoryEditor\bin\Debug\PurgatoryEditor.exe.manifest
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\PurgatoryEditor\bin\Debug\PurgatoryEditor.application
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\PurgatoryEditor\obj\Debug\PurgatoryEditor.exe.manifest
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\PurgatoryEditor\obj\Debug\PurgatoryEditor.application
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\bin\Debug\PurgatoryEditor.exe.config
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\bin\Debug\PurgatoryEditor.exe.manifest
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\bin\Debug\PurgatoryEditor.application
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\bin\Debug\PurgatoryEditor.exe
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\bin\Debug\PurgatoryEditor.pdb
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\bin\Debug\Newtonsoft.Json.dll
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\bin\Debug\Newtonsoft.Json.xml
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\obj\Debug\PurgatoryEditor.frmEditJson.resources
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\obj\Debug\PurgatoryEditor.frmMain.resources
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\obj\Debug\PurgatoryEditor.Properties.Resources.resources
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\obj\Debug\PurgatoryEditor.csproj.GenerateResource.Cache
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\obj\Debug\PurgatoryEditor.exe.manifest
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\obj\Debug\PurgatoryEditor.application
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\obj\Debug\PurgatoryEditor.exe
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\obj\Debug\PurgatoryEditor.pdb
+D:\Users\wdavies\Documents\Projects\Red Horse Orders Feeder\PurgatoryEditor\obj\Debug\PurgatoryEditor.csprojResolveAssemblyReference.cache
+D:\Users\Wdavies\Documents\Projects\zCompleted\000000 - Red Horse Orders Feeder\PurgatoryEditor\bin\Debug\PurgatoryEditor.exe.config
+D:\Users\Wdavies\Documents\Projects\zCompleted\000000 - Red Horse Orders Feeder\PurgatoryEditor\obj\Debug\PurgatoryEditor.exe
+D:\Users\Wdavies\Documents\Projects\zCompleted\000000 - Red Horse Orders Feeder\PurgatoryEditor\obj\Debug\PurgatoryEditor.pdb
+D:\Users\Wdavies\Documents\Projects\zCompleted\000000 - Red Horse Orders Feeder\PurgatoryEditor\obj\Debug\PurgatoryEditor.csprojResolveAssemblyReference.cache
+D:\Users\Wdavies\Documents\Projects\zCompleted\000000 - Red Horse Orders Feeder\PurgatoryEditor\obj\Debug\PurgatoryEditor.frmEditJson.resources
+D:\Users\Wdavies\Documents\Projects\zCompleted\000000 - Red Horse Orders Feeder\PurgatoryEditor\obj\Debug\PurgatoryEditor.frmMain.resources
+D:\Users\Wdavies\Documents\Projects\zCompleted\000000 - Red Horse Orders Feeder\PurgatoryEditor\obj\Debug\PurgatoryEditor.Properties.Resources.resources
+D:\Users\Wdavies\Documents\Projects\zCompleted\000000 - Red Horse Orders Feeder\PurgatoryEditor\obj\Debug\PurgatoryEditor.csproj.GenerateResource.Cache
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\Projects\PurgatoryEditor\bin\Debug\PurgatoryEditor.exe.config
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\Projects\PurgatoryEditor\bin\Debug\PurgatoryEditor.exe
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\Projects\PurgatoryEditor\bin\Debug\PurgatoryEditor.pdb
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\Projects\PurgatoryEditor\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\Projects\PurgatoryEditor\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\Projects\PurgatoryEditor\obj\Debug\PurgatoryEditor.csprojResolveAssemblyReference.cache
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\Projects\PurgatoryEditor\obj\Debug\PurgatoryEditor.frmEditJson.resources
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\Projects\PurgatoryEditor\obj\Debug\PurgatoryEditor.frmMain.resources
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\Projects\PurgatoryEditor\obj\Debug\PurgatoryEditor.Properties.Resources.resources
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\Projects\PurgatoryEditor\obj\Debug\PurgatoryEditor.csproj.GenerateResource.Cache
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\Projects\PurgatoryEditor\obj\Debug\PurgatoryEditor.exe
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\Projects\PurgatoryEditor\obj\Debug\PurgatoryEditor.pdb
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\Projects\PurgatoryEditor\bin\Debug\en\PurgatoryEditor.resources.dll
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\Projects\PurgatoryEditor\obj\Debug\PurgatoryEditor.frmEditJson.en.resources
+D:\Users\Wdavies\Documents\Projects\Transaction Pro Automation\Projects\PurgatoryEditor\obj\Debug\en\PurgatoryEditor.resources.dll
